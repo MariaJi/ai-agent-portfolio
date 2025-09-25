@@ -249,4 +249,4 @@ I'm passionate about creating AI solutions that solve real business problems. Wh
 - **Data management and analysis**
 - **AI integration consulting**
 
-[📧 Email me](mailto:maria@independentdatamanagement.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/maria-ji-aa182770)
+[📧 Email me](mailto:maria_ji_z@yahoo.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/maria-ji-aa182770)
