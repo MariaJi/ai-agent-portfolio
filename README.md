@@ -236,7 +236,7 @@ Ready to implement AI automation in your workflow? I specialize in creating cust
 - **Data management and analysis tools**
 - **Integration with existing systems**
 
-[📧 Email me](mailto:maria@independentdatamanagement.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/maria-ji-aa182770)
+[📧 Email me](mailto:maria_ji_z@yahoo.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/maria-ji-aa182770)
 
 *Located in Salem, Oregon | Available for remote collaboration worldwide*
 ```
