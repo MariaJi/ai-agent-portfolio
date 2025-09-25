@@ -26,7 +26,7 @@ With certifications in Deep Learning from DeepLearning.AI and Machine Learning w
 - Works across multiple content types (web, video, PDF)
 - Intelligent summarization of relevant points
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/week1agent1tldr-any-webpage-e75fe43f/remix)
+[🔗 Try it out](https://app.mindstudio.ai/agents/week1agent1tldr-any-webpage-e75fe43f)
 
 ---
 
